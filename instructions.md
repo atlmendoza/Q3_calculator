@@ -45,15 +45,15 @@ Today we shall create the beginnings of a calculator program. It shall have the 
     - When user clicks on the backspace < button, the textbox should shorten from the right side. Use the **substring()** here.
     - When user clicks on the C button the textbox content will be erased and value will start from 0.
  
-## Q1 Grading (30pts)
- - **50% javascript program (15points)**
+## Q1 Grading (20pts)
+ - **50% javascript program (10points)**
    - defining onclick functions for each of the button
    - constructing the content on the text box as user clicks on the numeric and operator buttons
    - getting and showing the result on the text box at press of the = button and displayed with three decimal places.
    - backspacing button on the calculator is working
    - reset button (C) is working.
      
- - **30% user interface (9pts)**
+ - **30% user interface (6pts)**
    - two headings are visible on the screen with your name, section and date.  It is centered with a different foreground and background color.
    - the calculator is also horizontally centered on the screen
    - textbox, buttons are sized and positioned appropriately
@@ -61,7 +61,7 @@ Today we shall create the beginnings of a calculator program. It shall have the 
    - font-family was changed.
    - overall look is pleasing to the eyes
      
- - **20% overall organization (6pts)**
+ - **20% overall organization (4pts)**
    - proper embedding of tags and proper indentation of code.
    - title and meta tags are present and have appropriate contents (2pts)
    - comments on the JS Code
