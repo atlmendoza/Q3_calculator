@@ -69,6 +69,6 @@ Today we shall create the beginnings of a calculator program. It shall have the 
 
 
 ## Due Date and Cut-off Date
-Feb 14, 2024 **`submissions beyond Dec 1 until Dec 6 will be scored with a cap of 80%. No more submission beyond Dec. 6`**
+Feb 14, 2024 
 
 ---
